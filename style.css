@@ -1,0 +1,68 @@
+body{
+    background-color: #808080;
+    color: #ffffff;
+    text-align: justify;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+h1{
+    text-align: center;
+}
+
+ #balkep{
+     width: 180px;  
+     box-shadow: 5px 5px 5px #1D1D4E;
+     margin-right: 10px;
+     float: left;
+ }
+
+.fejsor{
+    background-color: #1D1D4E;
+    color: #ffffff;
+    text-align: center;
+}
+
+table{
+    background-color: #808080;
+    box-shadow: 5px 5px 5px #1D1D4E;
+    color: #ffffff;
+}
+
+#jobbkep{
+    width: 400px;
+    float: right;
+    box-shadow: 5px 5px 5px #1D1D4E;
+    border: 1px #1D1D4E;
+}
+ 
+.forras{
+    text-align: center;
+    font-style: italic;
+    
+}
+
+a:visited{
+    color: #ff0000;
+} 
+
+a:link{
+    color: purple;
+}
+td{
+    border: 1px dotted #1d1d4e;
+}
+
+.jobbszöveg{
+    font-style: italic;
+}
+
+.betu{
+    font-weight: bold;
+    text-align: right;
+}
+
+hr{
+    margin-right: 75px;
+    margin-left: 75px;
+    border-color: #1D1D4E;
+}
